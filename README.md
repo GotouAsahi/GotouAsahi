@@ -4,3 +4,5 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=GotouAsahi&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/GotouAsahi/GotouAsahi/output/github-contribution-grid-snake.svg)
